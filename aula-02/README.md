@@ -26,7 +26,7 @@ Quando um cliente sacar dinheiro, você precisa garantir que o caixa eletrônico
 No caso do nosso problema, podemos imaginar que para encontrar o número mínimo de notas nós teremos que ser "gananciosos", e começar contando da maior denominação disponível pra a gente. Por exemplo, se um clinte pede 28 reais, nós começamos contando pelas notas de 10. Dessa forma, com duas notas de 10, nos cobrimos 20 dos 28 reais, e temos só 7 restantes. Como 8 é menor que 10, seguimos para o denominador seguinte, 5. Contando uma nota de 5, ficamos com 3. Fazemos o mesmo com 2 e depois com 1, para um total de duas notas de 10, uma de 5, uma de 2 e uma de 1: totalizando 5 notas.
 
 ### Implementação
-Nós já implementamos a maior parte do problema por você, mas ainda restam algumas funções!
+Nós [já implementamos](https://github.com/Maronato/maroaulas/blob/main/aula-02/caixa_eletronico.py). a maior parte do problema por você, mas ainda restam algumas funções!
 
 Quando você abrir o problema, verá que temos uma função `main` pronta que chama algumas outras funções. Leia e entenda o funcionamento da `main` e implemente as seguintes funções:
 - Implemente `perguntar_reais` de forma que ela pergunte quantos reais o usuário deseja sacar usando `get_int`. Se o usuário te passar um número negativo, seu código deve refazer a pergunta.
