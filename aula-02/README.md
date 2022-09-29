@@ -10,18 +10,8 @@ https://code.cs50.io/
 Siga as instruções na tela e aguarde até o seu codespace estar configurado.
 
 Você vai precisar fazer pelo menos uma tarefa entre:
--  [Mario simples](#mario-simples) se você estiver se sentindo menos confortável
--  [Mario complexo](#mario-complexo) se você estiver se sentindo mais confortável
-
-E pelo menos uma tarefa entre:
 - [Caixa eletrônico](#caixa-eletronico) se você estiver se sentindo menos confortável
 - [CPF](#cpf) se você estiver se sentindo mais confortável
-
-
-## Mario simples
-
-
-## Mario complexo
 
 
 ## Caixa eletronico
